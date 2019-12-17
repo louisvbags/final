@@ -1,0 +1,108 @@
+body {
+	background-color: grey ;
+}
+
+.grid {
+	display: grid ;
+	background-color: white ;
+	border: 2px solid blue ;
+	width: 20% ;
+	height: 30% ;
+	grid-column-start: 1 ;
+	grid-column-end: 1 ;
+	float: left ;
+	
+}
+
+.one {
+	display: grid ;
+	border: 2px solid red ;
+	width: 98% ;
+	height: 100% ;
+	grid-column-start: 2 ;
+	grid-column-end: 1 ;
+	
+
+}
+
+.two {
+	height: 30px ;
+	border: solid red 2px ;
+	width: 98% ;
+	height: 100% ;
+	grid-column-start: 2 ;
+	grid-row-end: 1 ;
+}
+
+.three {
+	height: 97% ;
+	border: solid red 2px ;
+	width: 98% ;
+	grid-column-start: 1 ;
+	grid-column-end: 2 ;
+}
+
+.four {
+	height; 100% ;
+	border: solid red 2px ;
+	width: 98% ;
+	grid-column-start: 2 ;
+	grid-row-end: 2 ;
+}
+
+.grid2 {
+	display: grid;
+	background-color: white ;
+	width: 40% ;
+	height: 100% ;
+	border: 2px solid grey ;
+
+}
+
+img {
+	width: 250px ;
+	height: 250px ;
+}
+
+.grid3 {
+	display: grid ;
+	background-color: white ;
+	width: 10% ;
+	height: 100% ;
+	border: 2px solid grey ;
+	
+}
+
+p {
+	font-size: 100px ;
+}
+
+.grid3 {
+	display: grid ;
+	background-color: white ;
+	border: solid grey 2px; 
+	width: 30% ;
+	height: 100% ;
+	float: right ;
+}
+
+a {
+	font-size: 100px ;
+}
+
+.grid4 {
+	display: grid ;
+	background-color: grey ;
+	border: 2px solid grey ;
+	width: 90% ;
+	height: 90% ;
+}
+
+
+	
+
+
+
+
+
+	
